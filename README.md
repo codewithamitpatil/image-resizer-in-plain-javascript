@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="hhttps://amitfoundation.herokuapp.com/">
-    <img src="logo2.png" alt="Logo" width="280" height="180">
+    <img src="https://raw.githubusercontent.com/codewithamitpatil/Api-Bucket-1.0/main/logo2.png" alt="Logo" width="280" height="180">
   </a>
 
   <h1 align="center">Image Resizer In Javascript 1.0</h1>
